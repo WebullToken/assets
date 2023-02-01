@@ -1,0 +1,34 @@
+{
+	    "name": "Webull",
+	    "website": "https://www.webulltoken.us",
+	    "description": "Webull is a Deflationary Meme Token that will gain utility for Payments.",
+	    "explorer": "https://etherscan.io/token/0x5b5abb4A60997036E56D101eDAb27e0247FE7eE5",
+	    "type": "ERC20",
+	    "symbol": "WBT",
+	    "decimals": 8,
+	    "status": "active",
+	    "id": "0x5b5abb4A60997036E56D101eDAb27e0247FE7eE5",
+	    "tags": [
+	        "Deflationary Token"
+	    ],
+	    "links": [
+	        {
+	            "name": "github",
+	            "url": "https://github.com/Webulltoken"
+	        },
+	        {
+	            "name": "twitter",
+	            "url": "https://twitter.com/WebullToken"
+	        },
+	        {
+	            "name": "telegram",
+	            "url": "https://t.me/WebullToken”
+	        },
+	        {
+	            "name": "discord",
+	            "url": "https://discord.gg/yyYfw6T8"
+	        },
+	        {
+	            "name": "Dextools",
+	            "url": "https://www.dextools.io/app/en/ether/pair-explorer/0x1be5e106983fc5c6b3cae4f8541546f981fd6fb5"
+	        }
